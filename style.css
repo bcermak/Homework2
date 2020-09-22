@@ -1,0 +1,32 @@
+.form-group {
+    padding-left: 40px;
+}
+.btn-primary {
+    margin-left: 40px;
+}
+
+.name {
+    color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 28px;
+    font-weight: 200;
+
+}   
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1 {
+      padding-top: 10%;
+      padding-bottom: 5%;
+      
+  }
+
+  p {
+      text-align: left;
+     
+  }
