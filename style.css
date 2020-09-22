@@ -1,9 +1,20 @@
 .form1{
         width: 350px;
-        border: 15px solid rgb(0, 113, 128);
+        border: 15px solid;
+        color: #343a40!important;
         padding: 50px;
         margin: 20px;
     
+}
+
+button {
+background-color: #343a40!important;
+
+}
+
+.form-group {
+    color: #343a40!important;
+    font-weight: 700;
 }
 .btn-primary {
     margin-left: 40px;
@@ -28,25 +39,27 @@ ul {
   }
 
   h1 {
-      padding-top: 10%;
-     
-      
+      padding-top: 10%;    
   }
 
   p {
       text-align: center;
      
   }
-.portfolio { text-align: center;
-    margin-bottom: 20px;
+.portfolio { 
+    padding-top: 50px;
+    padding-bottom: 50px;
     font-weight: 600;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.aboutme {text-align: center;
-
+.portfolio2 {
+    padding-bottom: 150px;
 }
-.img1 {
-text-align: center;
+.aboutme1 { 
+    font-weight: 500;
+    font-size: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 .projectA {
     text-align: center;
@@ -57,9 +70,25 @@ text-align: center;
 .projectC {
     text-align: center;
 }
-.footer1 {
-    padding-top: 100px;
-}
+
 .paragraph {
     padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    text-align: center;
+    background-color: aquamarine;
+   
+}
+
+ 
+.myFooter {
+    background-color: #343a40!important;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.card-body {
+    text-align: left;
 }
