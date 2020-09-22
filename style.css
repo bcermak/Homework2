@@ -1,5 +1,9 @@
-.form-group {
-    padding-left: 40px;
+.form1{
+        width: 350px;
+        border: 15px solid rgb(0, 113, 128);
+        padding: 50px;
+        margin: 20px;
+    
 }
 .btn-primary {
     margin-left: 40px;
@@ -25,16 +29,37 @@ ul {
 
   h1 {
       padding-top: 10%;
-      padding-bottom: 5%;
+     
       
   }
 
   p {
-      text-align: left;
+      text-align: center;
      
   }
 .portfolio { text-align: center;
     margin-bottom: 20px;
     font-weight: 600;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.aboutme {text-align: center;
+
+}
+.img1 {
+text-align: center;
+}
+.projectA {
+    text-align: center;
+}
+.projectB {
+    text-align: center;
+}
+.projectC {
+    text-align: center;
+}
+.footer1 {
+    padding-top: 100px;
+}
+.paragraph {
+    padding-top: 15px;
 }
