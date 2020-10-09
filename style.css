@@ -62,13 +62,17 @@ ul {
     padding-top: 10px;
 }
 .projectA {
-    text-align: center;
+    padding-top: 50px;
+    margin: 0 auto;
+    padding-bottom: 25px;
 }
 .projectB {
-    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 25px;
 }
 .projectC {
-    text-align: center;
+    margin: 0 auto;
+    
 }
 
 .paragraph {
@@ -91,4 +95,24 @@ ul {
 
 .card-body {
     text-align: left;
+}
+
+.beers1 {
+    height: 230.5px;
+    width: 400px;
+}
+.weather1 {
+    height: 239.75px;
+    width: 355.25px;
+}
+
+.password1 {
+    height: 252px;
+    width: 422.5px;
+}
+.portfolio-header {
+    margin: 0 auto;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    color: whitesmoke
 }
