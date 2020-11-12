@@ -23,6 +23,13 @@
     text-shadow: -2px -2px 0 black, 2px -2px 0 black, -2px 2px 0 black, 2px 2px 0 black;
     margin-top: 5px;
 }
+.fa-linkedin,
+.fa-github,
+.fa-mailchimp,
+.fa-phone-volume {
+    color:blue;
+    font-size: 15px;
+}
 
 .contactDirect{
     color:black;
@@ -158,4 +165,15 @@ html, body {
     font-family: 'Lobster', cursive;
     font-size: 45px;
     color: whitesmoke
+}
+
+.resume {
+    width: 100%;
+    height: 85%;
+    margin-right: 25%;
+    
+}
+
+.resumeBody {
+    text-align: center;
 }
