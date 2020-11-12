@@ -1,12 +1,28 @@
-.form1{
-        width: 350px;
-        border: 15px solid;
-        color: #343a40!important;
-        padding: 50px;
-        margin: 20px;
-    
+.navbar {
+    background-color: black;
 }
 
+.formBody {
+    text-align: center;
+}
+.form1{
+       width: 350px;
+        text-align: center;
+        margin-top: 5%;
+        margin: 0 auto;
+    
+}
+.myInfo {
+text-align: center;
+color:white;
+    font-family: 'Goldman', cursive;
+    text-shadow: -2px -2px 0 black, 2px -2px 0 black, -2px 2px 0 black, 2px 2px 0 black;
+}
+
+.contactDirect{
+    color:black;
+    font-family: 'Goldman', cursive;
+}
 button {
 background-color: #343a40!important;
 
@@ -16,9 +32,7 @@ background-color: #343a40!important;
     color: #343a40!important;
     font-weight: 700;
 }
-.btn-primary {
-    margin-left: 40px;
-}
+
 
 .name {
     color: whitesmoke;
@@ -27,25 +41,10 @@ background-color: #343a40!important;
     font-weight: 200;
 
 }   
-.mr-3 {
-    height: 200px;
-    width: 200px;
+.linkedin {
+    padding-top: 10px;
+    padding-bottom: 15px;
 }
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-
-  h1 {
-      padding-top: 10%;    
-  }
-
-  p {
-      text-align: center;
-     
-  }
 .portfolio { 
     padding-top: 50px;
     padding-bottom: 50px;
@@ -53,13 +52,33 @@ ul {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .portfolio2 {
+    color: white;
     padding-bottom: 150px;
 }
-.aboutme1 { 
-    font-weight: 500;
-    font-size: 20px;
-    padding-bottom: 10px;
-    padding-top: 10px;
+.aboutMe {
+    font-family: 'Barlow Condensed', sans-serif;
+    color: white;
+    text-shadow: -2px -2px 0 black, 2px -2px 0 black, -2px 2px 0 black, 2px 2px 0 black;
+    font-weight: 600;
+    padding-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.card-body{
+padding-left: 10px;
+padding-right: 10px;
+margin-left: 30%;
+margin-right: 30%;
+text-align: center;
+
+;
+}
+
+.knowMe {
+    color:white;
+    font-family: 'Goldman', cursive;
+    text-shadow: -2px -2px 0 black, 2px -2px 0 black, -2px 2px 0 black, 2px 2px 0 black;
 }
 .projectA {
     padding-top: 50px;
@@ -80,21 +99,39 @@ ul {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.container {
+body {
+    background: rgb(175,172,232);
+    background: radial-gradient(circle, rgba(175,172,232,1) 0%, rgba(18,18,29,0.7959558823529411) 26%, rgba(27,33,34,1) 100%);
+}
+
+.projectTitle {
+    color: white;
     text-align: center;
-    background-color: aquamarine;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  .content {
+    justify-content: center;
+    padding: 20px;
+    min-height: 100%;
+    margin: 0 auto -50px;
+  }
+  .myFooter,
+  .push {
+    height: 50px;
+  }
    
-}
 
- 
 .myFooter {
-    background-color: #343a40!important;
-    color: whitesmoke;
+    background-color: black;
     text-align: center;
 }
 
-.card-body {
-    text-align: left;
+.footerLinks {
+    color: white;
 }
 
 .beers1 {
@@ -111,8 +148,8 @@ ul {
     width: 422.5px;
 }
 .portfolio-header {
-    margin: 0 auto;
+    margin-left: 20px;
     font-family: 'Lobster', cursive;
-    font-size: 50px;
+    font-size: 45px;
     color: whitesmoke
 }
