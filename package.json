@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This week was quite the challenge. Intially, I created all three webpages without the proper grid format - I had created columns where I intended to create rows. I then began writing my code again from scratch.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcermak/Homework2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcermak/Homework2/issues"
+  },
+  "homepage": "https://github.com/bcermak/Homework2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
