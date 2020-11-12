@@ -157,6 +157,13 @@ html, body {
  margin: 0 auto;
 }
 
+.hwBtn1,
+.hwBtn2,
+.hwBtn3,
+.hwBtn4 {
+   margin-top: 10px;
+}
+
 .projectA,
 .projectB,
 .projectC,
