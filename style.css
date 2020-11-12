@@ -126,6 +126,7 @@ html, body {
    
 
 .myFooter {
+    padding-top: 8.5px;
     background-color: black;
     text-align: center;
 }
