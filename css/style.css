@@ -58,14 +58,12 @@ background-color: #343a40!important;
     padding-bottom: 15px;
 }
 .portfolio { 
-    padding-top: 50px;
-    padding-bottom: 50px;
     font-weight: 600;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .portfolio2 {
     color: white;
-    padding-bottom: 150px;
+    
 }
 .aboutMe {
     font-family: 'Barlow Condensed', sans-serif;
@@ -92,16 +90,12 @@ text-align: center;
     text-shadow: -2px -2px 0 black, 2px -2px 0 black, -2px 2px 0 black, 2px 2px 0 black;
 }
 .projectA {
-    padding-top: 50px;
-    margin: 0 auto;
-    padding-bottom: 25px;
+   
 }
 .projectB {
-    margin: 0 auto;
-    padding-bottom: 25px;
+   
 }
 .projectC {
-    margin: 0 auto;
     
 }
 
@@ -175,5 +169,11 @@ html, body {
 }
 
 .resumeBody {
+    text-align: center;
+}
+
+.secondaryProject,
+.primaryProject {
+    
     text-align: center;
 }
