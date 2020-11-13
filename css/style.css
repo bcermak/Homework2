@@ -64,14 +64,15 @@ background-color: #343a40!important;
     text-shadow: -2px -2px 0 black, 2px -2px 0 black, -2px 2px 0 black, 2px 2px 0 black;
     font-weight: 600;
     padding-top: 20px;
+    margin-bottom: 29%;
     
 }
 
 .card-body{
 padding-left: 10px;
 padding-right: 10px;
-margin-left: 30%;
-margin-right: 30%;
+margin-left: 22%;
+margin-right: 22%;
 text-align: center;
 
 ;
